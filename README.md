@@ -1,4 +1,4 @@
 ## notes app frontend
-for learing purpose
+My first React project
 
 [live link](https://dishita-notes.netlify.app)
